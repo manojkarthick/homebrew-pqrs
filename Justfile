@@ -1,4 +1,4 @@
-version := "0.1.1"
+version := "0.1.2"
 
 package:
     wget https://github.com/manojkarthick/pqrs/releases/download/v{{version}}/pqrs-macos-amd64 -O pqrs
